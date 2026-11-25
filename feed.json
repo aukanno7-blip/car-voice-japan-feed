@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:33:25+09:00",
+  "generated_at": "2026-11-25T21:32:51.671064+09:00",
   "source": "Threads @car_voice_japan 公式インサイト取り込み",
   "followers": 101,
   "latest": [
@@ -7,9 +7,9 @@
       "id": "18119639798122535",
       "title": "抽選に外れた人、チャンスです。MTのWRX、548万円で買えます。",
       "posted_at": "2026-11-25 08:01",
-      "views": 264,
-      "replies": 0,
-      "likes": 2,
+      "views": 561,
+      "replies": 6,
+      "likes": 6,
       "url": "https://www.threads.net/t/18119639798122535",
       "lounge": "スーパーカー・スポーツ"
     },
@@ -17,7 +17,7 @@
       "id": "18122904551052718",
       "title": "Gクラス、5年で95%残る。外車の値落ち、思い込みです。",
       "posted_at": "2026-11-24 08:01",
-      "views": 30,
+      "views": 33,
       "replies": 0,
       "likes": 0,
       "url": "https://www.threads.net/t/18122904551052718",
@@ -27,7 +27,7 @@
       "id": "18009250949990759",
       "title": "愛車を手放す決断は、買うときよりずっと重いです。",
       "posted_at": "2026-11-21 19:47",
-      "views": 48,
+      "views": 49,
       "replies": 8,
       "likes": 1,
       "url": "https://www.threads.net/t/18009250949990759",
@@ -37,7 +37,7 @@
       "id": "17909641854668354",
       "title": "車中泊仕様のキャラバンは577万円。DIY派も多いです。",
       "posted_at": "2026-11-21 08:01",
-      "views": 53,
+      "views": 54,
       "replies": 0,
       "likes": 0,
       "url": "https://www.threads.net/t/17909641854668354",
@@ -47,7 +47,7 @@
       "id": "18077737358728701",
       "title": "同じ兄弟車なのに、入口価格で44万円も差がつきました。",
       "posted_at": "2026-11-20 08:01",
-      "views": 310,
+      "views": 311,
       "replies": 0,
       "likes": 2,
       "url": "https://www.threads.net/t/18077737358728701",
@@ -57,7 +57,7 @@
       "id": "18030793649873456",
       "title": "500Cの後継は、価格がほぼ2倍の電気自動車になりました。",
       "posted_at": "2026-11-19 07:57",
-      "views": 224,
+      "views": 225,
       "replies": 9,
       "likes": 0,
       "url": "https://www.threads.net/t/18030793649873456",
@@ -68,8 +68,8 @@
     {
       "name": "オーナーの声",
       "post_count": 43,
-      "total_views": 330203,
-      "total_replies": 862,
+      "total_views": 330293,
+      "total_replies": 861,
       "posts": [
         "18009250949990759",
         "18077737358728701",
@@ -119,7 +119,7 @@
     {
       "name": "日本車vs輸入車",
       "post_count": 3,
-      "total_views": 47531,
+      "total_views": 47538,
       "total_replies": 756,
       "posts": [
         "18122904551052718",
@@ -130,7 +130,7 @@
     {
       "name": "ジムニー",
       "post_count": 6,
-      "total_views": 37762,
+      "total_views": 37808,
       "total_replies": 320,
       "posts": [
         "18121680520967719",
@@ -144,7 +144,7 @@
     {
       "name": "光岡",
       "post_count": 1,
-      "total_views": 13581,
+      "total_views": 13588,
       "total_replies": 245,
       "posts": [
         "18154579591553281"
@@ -153,8 +153,8 @@
     {
       "name": "スーパーカー・スポーツ",
       "post_count": 5,
-      "total_views": 21535,
-      "total_replies": 173,
+      "total_views": 21845,
+      "total_replies": 179,
       "posts": [
         "18119639798122535",
         "18095543639693449",
@@ -166,7 +166,7 @@
     {
       "name": "ミニバン・ファミリー",
       "post_count": 5,
-      "total_views": 110969,
+      "total_views": 110983,
       "total_replies": 149,
       "posts": [
         "18130200937768882",
@@ -179,7 +179,7 @@
     {
       "name": "軽自動車",
       "post_count": 9,
-      "total_views": 46132,
+      "total_views": 46151,
       "total_replies": 147,
       "posts": [
         "17895241377615726",
@@ -196,7 +196,7 @@
     {
       "name": "セダン・その他",
       "post_count": 1,
-      "total_views": 25348,
+      "total_views": 25371,
       "total_replies": 79,
       "posts": [
         "18107181860567692"
@@ -205,7 +205,7 @@
     {
       "name": "EV・テスラ",
       "post_count": 5,
-      "total_views": 76625,
+      "total_views": 76637,
       "total_replies": 73,
       "posts": [
         "18120958892021342",
@@ -218,7 +218,7 @@
     {
       "name": "SUV・クロカン",
       "post_count": 2,
-      "total_views": 3432,
+      "total_views": 3434,
       "total_replies": 8,
       "posts": [
         "18098518094651580",
@@ -228,7 +228,7 @@
     {
       "name": "車中泊・バン",
       "post_count": 2,
-      "total_views": 168,
+      "total_views": 169,
       "total_replies": 0,
       "posts": [
         "17909641854668354",
@@ -247,7 +247,7 @@
     {
       "date": "2026-11-26",
       "weekday": "木",
-      "title": "車検に20万円。払いますか、買い替えますか？",
+      "title": "BYDのSUV、似すぎてEUで販売禁止になりました。",
       "status": "booked",
       "media": "text"
     },
@@ -262,7 +262,7 @@
       "date": "2026-11-28",
       "weekday": "土",
       "title": "カムリはアメリカ製になって、3年ぶりに帰ってきます。",
-      "status": "pending_announcement",
+      "status": "booked",
       "media": "text"
     },
     {
@@ -292,6 +292,20 @@
       "title": "クラウンは4種類に増えたのに、セダンは少数派になりました。",
       "status": "booked",
       "media": "video"
+    },
+    {
+      "date": "2026-12-03",
+      "weekday": "木",
+      "title": "あなたの愛車の最高の1枚、サイトに載せます。",
+      "status": "booked",
+      "media": "text"
+    },
+    {
+      "date": "2026-12-04",
+      "weekday": "金",
+      "title": "車検に20万円。払いますか、買い替えますか？",
+      "status": "booked",
+      "media": "text"
     }
   ]
 }
