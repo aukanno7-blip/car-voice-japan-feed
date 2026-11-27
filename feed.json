@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:34:41+09:00",
+  "generated_at": "2026-11-27T21:33:00+09:00",
   "source": "Threads @car_voice_japan 公式インサイト取り込み",
   "followers": 103,
   "latest": [
@@ -7,9 +7,9 @@
       "id": "18649873486051055",
       "title": "シエンタ、最上級は340万円。先代から乗り換えた人、正直どうですか？",
       "posted_at": "2026-11-27 07:58",
-      "views": 760,
-      "replies": 0,
-      "likes": 2,
+      "views": 1613,
+      "replies": 4,
+      "likes": 3,
       "url": "https://www.threads.net/t/18649873486051055",
       "lounge": "ミニバン・ファミリー"
     },
@@ -17,7 +17,7 @@
       "id": "18097706111676976",
       "title": "BYDのSUV、似すぎてEUで販売禁止になりました。",
       "posted_at": "2026-11-26 08:00",
-      "views": 1256,
+      "views": 1272,
       "replies": 16,
       "likes": 3,
       "url": "https://www.threads.net/t/18097706111676976",
@@ -27,7 +27,7 @@
       "id": "18119639798122535",
       "title": "抽選に外れた人、チャンスです。MTのWRX、548万円で買えます。",
       "posted_at": "2026-11-25 08:01",
-      "views": 1041,
+      "views": 1044,
       "replies": 12,
       "likes": 10,
       "url": "https://www.threads.net/t/18119639798122535",
@@ -37,7 +37,7 @@
       "id": "18122904551052718",
       "title": "Gクラス、5年で95%残る。外車の値落ち、思い込みです。",
       "posted_at": "2026-11-24 08:01",
-      "views": 45,
+      "views": 47,
       "replies": 0,
       "likes": 0,
       "url": "https://www.threads.net/t/18122904551052718",
@@ -68,7 +68,7 @@
     {
       "name": "オーナーの声",
       "post_count": 44,
-      "total_views": 332044,
+      "total_views": 332174,
       "total_replies": 877,
       "posts": [
         "18097706111676976",
@@ -120,7 +120,7 @@
     {
       "name": "日本車vs輸入車",
       "post_count": 3,
-      "total_views": 47575,
+      "total_views": 47577,
       "total_replies": 761,
       "posts": [
         "18122904551052718",
@@ -131,7 +131,7 @@
     {
       "name": "ジムニー",
       "post_count": 6,
-      "total_views": 37961,
+      "total_views": 38013,
       "total_replies": 320,
       "posts": [
         "18121680520967719",
@@ -145,7 +145,7 @@
     {
       "name": "光岡",
       "post_count": 1,
-      "total_views": 13627,
+      "total_views": 13630,
       "total_replies": 249,
       "posts": [
         "18154579591553281"
@@ -154,7 +154,7 @@
     {
       "name": "スーパーカー・スポーツ",
       "post_count": 5,
-      "total_views": 22365,
+      "total_views": 22376,
       "total_replies": 185,
       "posts": [
         "18119639798122535",
@@ -167,8 +167,8 @@
     {
       "name": "ミニバン・ファミリー",
       "post_count": 6,
-      "total_views": 111785,
-      "total_replies": 149,
+      "total_views": 112655,
+      "total_replies": 153,
       "posts": [
         "18649873486051055",
         "18130200937768882",
@@ -181,7 +181,7 @@
     {
       "name": "軽自動車",
       "post_count": 9,
-      "total_views": 46213,
+      "total_views": 46225,
       "total_replies": 147,
       "posts": [
         "17895241377615726",
@@ -198,7 +198,7 @@
     {
       "name": "セダン・その他",
       "post_count": 1,
-      "total_views": 25473,
+      "total_views": 25502,
       "total_replies": 79,
       "posts": [
         "18107181860567692"
@@ -207,7 +207,7 @@
     {
       "name": "EV・テスラ",
       "post_count": 5,
-      "total_views": 76694,
+      "total_views": 76708,
       "total_replies": 73,
       "posts": [
         "18120958892021342",
@@ -220,7 +220,7 @@
     {
       "name": "SUV・クロカン",
       "post_count": 2,
-      "total_views": 3446,
+      "total_views": 3447,
       "total_replies": 8,
       "posts": [
         "18098518094651580",
