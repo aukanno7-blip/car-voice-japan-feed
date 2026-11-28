@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-11-28T12:32:44+09:00",
+  "generated_at": "2026-11-28T21:32:25+09:00",
   "source": "Threads @car_voice_japan 公式インサイト取り込み",
   "followers": 103,
   "latest": [
     {
+      "id": "18135735643818052",
+      "title": "初めて買った車、覚えてますか？",
+      "posted_at": "2026-11-28 20:11",
+      "views": 209,
+      "replies": 4,
+      "likes": 0,
+      "url": "https://www.threads.net/t/18135735643818052",
+      "lounge": "オーナーの声"
+    },
+    {
       "id": "17982243338921102",
       "title": "カムリはアメリカ製になって、3年ぶりに帰ってきます。",
       "posted_at": "2026-11-28 08:00",
-      "views": 326,
+      "views": 532,
       "replies": 4,
-      "likes": 2,
+      "likes": 3,
       "url": "https://www.threads.net/t/17982243338921102",
       "lounge": "セダン・その他"
     },
@@ -27,7 +37,7 @@
       "id": "18097706111676976",
       "title": "BYDのSUV、似すぎてEUで販売禁止になりました。",
       "posted_at": "2026-11-26 08:00",
-      "views": 1279,
+      "views": 1285,
       "replies": 16,
       "likes": 3,
       "url": "https://www.threads.net/t/18097706111676976",
@@ -52,25 +62,16 @@
       "likes": 0,
       "url": "https://www.threads.net/t/18122904551052718",
       "lounge": "日本車vs輸入車"
-    },
-    {
-      "id": "18009250949990759",
-      "title": "愛車を手放す決断は、買うときよりずっと重いです。",
-      "posted_at": "2026-11-21 19:47",
-      "views": 59,
-      "replies": 8,
-      "likes": 1,
-      "url": "https://www.threads.net/t/18009250949990759",
-      "lounge": "オーナーの声"
     }
   ],
   "lounges": [
     {
       "name": "オーナーの声",
-      "post_count": 44,
-      "total_views": 332317,
-      "total_replies": 876,
+      "post_count": 45,
+      "total_views": 332550,
+      "total_replies": 880,
       "posts": [
+        "18135735643818052",
         "18097706111676976",
         "18009250949990759",
         "18077737358728701",
@@ -120,7 +121,7 @@
     {
       "name": "日本車vs輸入車",
       "post_count": 3,
-      "total_views": 47579,
+      "total_views": 47583,
       "total_replies": 761,
       "posts": [
         "18122904551052718",
@@ -131,7 +132,7 @@
     {
       "name": "ジムニー",
       "post_count": 6,
-      "total_views": 38061,
+      "total_views": 38062,
       "total_replies": 320,
       "posts": [
         "18121680520967719",
@@ -145,7 +146,7 @@
     {
       "name": "光岡",
       "post_count": 1,
-      "total_views": 13634,
+      "total_views": 13635,
       "total_replies": 249,
       "posts": [
         "18154579591553281"
@@ -167,7 +168,7 @@
     {
       "name": "ミニバン・ファミリー",
       "post_count": 6,
-      "total_views": 113025,
+      "total_views": 113026,
       "total_replies": 153,
       "posts": [
         "18649873486051055",
@@ -198,7 +199,7 @@
     {
       "name": "セダン・その他",
       "post_count": 2,
-      "total_views": 25855,
+      "total_views": 26061,
       "total_replies": 83,
       "posts": [
         "17982243338921102",
@@ -309,6 +310,41 @@
       "title": "車検に20万円。払いますか、買い替えますか？",
       "status": "booked",
       "media": "text"
+    },
+    {
+      "date": "2026-12-05",
+      "weekday": "土",
+      "title": "ランエボが消えて、今年で10年になります。",
+      "status": "booked",
+      "media": "video"
+    },
+    {
+      "date": "2026-12-06",
+      "weekday": "日",
+      "title": "ミニバンに1,090万円。それでも選ぶ理由、正直どうですか？",
+      "status": "booked",
+      "media": "video"
+    },
+    {
+      "date": "2026-12-07",
+      "weekday": "月",
+      "title": "BMWとベンツ、結局どっちが正解ですか？",
+      "status": "booked",
+      "media": "video"
+    },
+    {
+      "date": "2026-12-08",
+      "weekday": "火",
+      "title": "日産の歴代ナンバーワン、1台だけ選ぶならどれですか？",
+      "status": "booked",
+      "media": "video"
+    },
+    {
+      "date": "2026-12-09",
+      "weekday": "水",
+      "title": "キックスとヴェゼル、買うならどっちですか？",
+      "status": "booked",
+      "media": "video"
     }
   ]
 }
